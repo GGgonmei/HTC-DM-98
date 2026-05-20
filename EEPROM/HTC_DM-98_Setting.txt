@@ -1,0 +1,21 @@
+--disabled--					00
+DC mV					01		8E
+AC mV					02		9E
+DC V (Dotless)				03		86
+AC V (Dotless)				04		96
+DC V	(mV to V)				05		- -
+AC V	(mV to V)				06		- -
+Resistance Ω				07		80
+Continuity					09		90
+Diode						0A		A0
+Capacitance				0B		81
+DC µA					0C		8A
+AC µA					0D		9A
+DC mA					0E		83
+AC mA					0F		93
+DC A 10A					10		89
+AC A 10A					11		99
+Frequency Hz / Duty Cycle		12		8D
+NCV						16		8C
+Temperature °C				13		87
+Live						17		9C
