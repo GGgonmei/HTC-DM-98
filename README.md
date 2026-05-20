@@ -1,2 +1,2 @@
 # HTC-DM-98
-Modding HTC DM-98 multimeter
+![HTC DM-98 Multimeter](Images/HTC DM-98 Multimeter.png)
